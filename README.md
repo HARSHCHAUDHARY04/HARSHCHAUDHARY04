@@ -42,10 +42,15 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
+<!-- Top Languages -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshchaudhary04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshchaudhary04&show_icons=true&locale=en&layout=compact" alt="harshchaudhary04" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshchaudhary04&show_icons=true&locale=en" alt="harshchaudhary04" /></p>
+<!-- GitHub Stats -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshchaudhary04&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshchaudhary04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
