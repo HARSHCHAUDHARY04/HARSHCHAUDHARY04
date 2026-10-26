@@ -1,75 +1,86 @@
-<h1 align="center">Hi 👋, I'm Harsh Chaudhary</h1>
-<h3 align="center">AI/ML Engineer & Full-Stack Web Developer from India</h3>
+<!-- ▶ HC ARCADE — Harsh Chaudhary's GitHub profile -->
 
 <p align="center">
-  <a href="https://harshchaudhary-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00FFD1?style=for-the-badge&logo=react&logoColor=black" alt="Live Portfolio" />
-  </a>
+  <a href="https://harshchaudhary-portfolio.vercel.app/"><img src="./assets/hero.svg" width="100%" alt="Harsh Chaudhary — Full-Stack Developer × AI/ML Engineer" /></a>
 </p>
 
-- 🎓 B.Tech in **Computer Science (AI & ML)** at GLA University (in partnership with Microsoft).
-- 💼 Currently working as a **Frontend Development Intern** at WNC Technologies.
-- 🚀 Technical Head at **Club Datum**, leading a team of 15+ student developers.
-- 🧠 Specializing in **AI & ML Systems, RAG/LLM Applications, and High-Performance Web Architectures**.
-- 📫 Reach me at **harshchikara408@gmail.com**
-
----
-
-## 🔗 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-chaudhary-0aa420316)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chhikara_harsh04)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFD1?style=for-the-badge&logo=google-chrome&logoColor=black)](https://harshchaudhary-portfolio.vercel.app/)
-
----
-
-### 💻 Languages and Tools:
-
-#### 🤖 AI/ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9AB6D4?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-#### 🌐 Full-Stack Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### 📊 Core Languages & Business Intelligence
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 📊 GitHub Metrics & Activity:
-
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshchaudhary04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=harshchaudhary04&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=HARSHCHAUDHARY04&label=PLAYERS%20JOINED&color=FF2E88&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-39FF14?style=for-the-badge&labelColor=0A0A1F" alt="Open to internships" />
+  <img src="https://img.shields.io/github/followers/HARSHCHAUDHARY04?label=PARTY%20MEMBERS&style=for-the-badge&color=00F0FF&labelColor=0A0A1F" alt="Followers" />
 </p>
 
-<br clear="both" />
-<br />
+<p align="center">
+  <img src="./assets/player.svg" width="100%" alt="Player 1 — Harsh Chaudhary. Class: Full-Stack Developer. Subclass: AI/ML Engineer. Guild: Datum, GLA University (President)." />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshchaudhary04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./assets/career.svg" width="100%" alt="Career mode: Datum Technical Team Member → Head of Technical Team → Research Intern at IIIT Vadodara (GeoVision AI) → AI/ML Intern at Audax Labs → President of Datum" />
+</p>
+
+<p align="center"><img src="./assets/h-boss.svg" width="100%" alt="Boss Battles" /></p>
+
+<p align="center">
+  <a href="https://github.com/HARSHCHAUDHARY04/AI-Arena"><img src="./assets/boss-1.svg" width="49%" alt="Boss 1: AI Battle Arena" /></a>
+  <a href="https://github.com/HARSHCHAUDHARY04/LandChain"><img src="./assets/boss-2.svg" width="49%" alt="Boss 2: LandChain" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/HARSHCHAUDHARY04/Ai_operating_system"><img src="./assets/boss-3.svg" width="49%" alt="Boss 3: AI OS Assistant" /></a>
+  <a href="https://github.com/HARSHCHAUDHARY04/Quezal"><img src="./assets/boss-4.svg" width="49%" alt="Boss 4: Quezal" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/HARSHCHAUDHARY04/ai-policy-navigator"><img src="./assets/boss-5.svg" width="49%" alt="Boss 5: AI Policy Navigator" /></a>
+  <a href="https://github.com/HARSHCHAUDHARY04/IronLog"><img src="./assets/boss-6.svg" width="49%" alt="Boss 6: IronLog" /></a>
+</p>
+
+<p align="center"><sub>⚔️ Boss 01 is live — <a href="https://www.aibattlearena.in"><b>play AI Battle Arena</b></a> · click any card to open the repo</sub></p>
+
+<p align="center">
+  <img src="./assets/achievements.svg" width="100%" alt="Achievements: OCI 2025 Generative AI Professional, Azure AZ-900, AI-900, DP-900, President of Datum, launched AI Battle Arena" />
+</p>
+
+<p align="center"><img src="./assets/h-inventory.svg" width="100%" alt="Inventory" /></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,html,css,tailwind,bootstrap&theme=dark&perline=10" alt="Full-stack" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,sklearn,django,fastapi,solidity,arduino&theme=dark&perline=10" alt="Languages and AI/ML" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,azure,docker,git,github,vercel&theme=dark&perline=10" alt="Databases and cloud" />
+</p>
+
+<p align="center"><img src="./assets/h-score.svg" width="100%" alt="Scoreboard" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHCHAUDHARY04&show_icons=true&rank_icon=github&bg_color=0A0A1F&title_color=00F0FF&text_color=F4F4FF&icon_color=FF2E88&border_color=2C2C66" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HARSHCHAUDHARY04&layout=compact&bg_color=0A0A1F&title_color=00F0FF&text_color=F4F4FF&icon_color=FF2E88&border_color=2C2C66" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HARSHCHAUDHARY04&background=0A0A1F&border=2C2C66&stroke=2C2C66&ring=FF2E88&fire=FFE53B&currStreakNum=00F0FF&currStreakLabel=00F0FF&sideNums=F4F4FF&sideLabels=9A9AD0&dates=9A9AD0" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHCHAUDHARY04&bg_color=0A0A1F&color=00F0FF&line=FF2E88&point=FFE53B&area=true&area_color=FF2E88&hide_border=true&custom_title=XP%20Gained%20Over%20Time" width="100%" alt="Contribution activity graph" />
+</p>
+
+<p align="center"><img src="./assets/h-bonus.svg" width="100%" alt="Bonus level" /></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARSHCHAUDHARY04/HARSHCHAUDHARY04/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARSHCHAUDHARY04/HARSHCHAUDHARY04/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/HARSHCHAUDHARY04/HARSHCHAUDHARY04/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><img src="./assets/h-party.svg" width="100%" alt="Join my party" /></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshchaudhary04/"><img src="./assets/btn-linkedin.svg" width="200" alt="LinkedIn" /></a>
+  <a href="https://harshchaudhary-portfolio.vercel.app/"><img src="./assets/btn-portfolio.svg" width="200" alt="Portfolio" /></a>
+  <a href="mailto:harshchikara408@gmail.com"><img src="./assets/btn-email.svg" width="200" alt="Email" /></a>
+  <a href="https://instagram.com/chhikara_harsh04"><img src="./assets/btn-instagram.svg" width="200" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Continue? Insert coin — thanks for playing" />
 </p>
